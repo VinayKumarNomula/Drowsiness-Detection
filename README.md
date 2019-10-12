@@ -19,3 +19,10 @@ Note:note*** if any problem: download and install visual studio community...sele
 
 run the code via command terminal. 
 Go to the path and enter "python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav"
+
+
+
+
+#####
+Include shape-predictor file in your code folder from below link:
+Shape-Predictor: https://drive.google.com/drive/folders/1uRzco0_hS3wCL-t75w9ye4aD0nVltAgn?usp=sharing
